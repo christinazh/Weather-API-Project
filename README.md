@@ -1,5 +1,5 @@
 ## Introduction
-Amazon web service gives businesses an opportunity to create sophisticated applications and provide a range of tools to use.  
+Amazon web service gives businesses an opportunity to create sophisticated applications and provide a range of tools to use. 
 Another application, APIs, are also useful to provide data in a way that is simple to understand and view. 
 By combining these two components (using a weather API), we can create a program that provides users information about weather 
 and allow their inputs to impact the outputs.
